@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on making a really efficient system
 - 📫 How to reach me 435arthur@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I do mnay things 
+- ⚡ Fun fact: I do many things 
 
 <!---
 Seinatu/Seinatu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
